@@ -1,0 +1,11 @@
+{
+  "name": "aside",
+  "version": "0.2.0",
+  "description": "/aside: like /btw, but it can see. Side questions that see screenshots, read your code (read-only) and never touch the main chat; -q for instant answers.",
+  "author": { "name": "anugrah55", "url": "https://github.com/anugrah55" },
+  "homepage": "https://github.com/anugrah55/claude-aside",
+  "repository": "https://github.com/anugrah55/claude-aside",
+  "license": "MIT",
+  "keywords": ["btw", "side-question", "screenshots", "images", "read-only", "vibe-coding"],
+  "types": "./types/index.d.ts"
+}

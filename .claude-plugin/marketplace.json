@@ -1,0 +1,12 @@
+{
+  "name": "claude-aside",
+  "owner": { "name": "anugrah55" },
+  "description": "/aside for Claude Code: /btw that can see screenshots and read your code.",
+  "plugins": [
+    {
+      "name": "aside",
+      "source": "./",
+      "description": "/aside: like /btw, but it can see. Side questions that see screenshots, read your code (read-only) and never touch the main chat."
+    }
+  ]
+}
